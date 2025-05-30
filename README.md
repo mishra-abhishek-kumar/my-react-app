@@ -10,3 +10,10 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+#1 Learned about useState
+#2 Learned about passing a function the the props of children
+#3 Learned about the conditional passing a conditional props to the children
+#4 Learned about using the passed function to the children to again call the parent function
+#5 Learned about making a custom component
+#6 Learned about passing and accessing children prop to the component
